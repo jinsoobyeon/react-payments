@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.9b59c3ef.css",
-    "main.js": "/react-payments/static/js/main.1cc8d485.js",
-    "index.html": "/react-payments/index.html",
-    "main.9b59c3ef.css.map": "/react-payments/static/css/main.9b59c3ef.css.map",
-    "main.1cc8d485.js.map": "/react-payments/static/js/main.1cc8d485.js.map"
+    "main.css": "https://jinsoobyeon.github.io/react-payments/static/css/main.9b59c3ef.css",
+    "main.js": "https://jinsoobyeon.github.io/react-payments/static/js/main.352d13ec.js",
+    "index.html": "https://jinsoobyeon.github.io/react-payments/index.html",
+    "main.9b59c3ef.css.map": "https://jinsoobyeon.github.io/react-payments/static/css/main.9b59c3ef.css.map",
+    "main.352d13ec.js.map": "https://jinsoobyeon.github.io/react-payments/static/js/main.352d13ec.js.map"
   },
   "entrypoints": [
     "static/css/main.9b59c3ef.css",
-    "static/js/main.1cc8d485.js"
+    "static/js/main.352d13ec.js"
   ]
 }
